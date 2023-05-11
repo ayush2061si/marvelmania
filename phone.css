@@ -1,0 +1,40 @@
+#navbar{
+flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding:0px 7px;
+    padding-bottom: 8px;
+}
+#marvel{
+height:370px;
+padding:3px 28px;
+}
+#marvel::before{
+    height:480px;
+}
+#marvel p{
+    font-size: 13px;;
+}
+.explore{
+flex-direction: column;
+}
+.explore #expl{
+padding:14px;
+margin:2px 0px;
+margin-bottom: 20px;;
+}
+.follow{
+flex-wrap: wrap;
+}
+.follow img{
+    width:66px;
+    height: auto;
+}
+.contact form{
+width: 80%;
+}
+.h-primary{
+    font-size: 26px;
+    
+}
